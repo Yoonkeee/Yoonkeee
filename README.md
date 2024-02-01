@@ -1,4 +1,4 @@
-# Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&color=gradient&text=FE%20개발자%20김윤기입니다.&section=header&reversal=false&textBg=false&animation=fadeIn&fontColor=1a2aAA)
 
 ## I am
 
@@ -21,5 +21,11 @@
 
 ## Links & Contacts
 
+- LinkedIn : https://www.linkedin.com/in/yoonkeee/  
 - Blog : https://velog.io/@yoonkeee/posts  
-- Mail : yoonkeee@gmail.com  
+- Mail : yoonkeee@gmail.com
+  
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonkeee%2F&count_bg=%23FF5E5E&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=false&textBg=false&animation=fadeIn&fontColor=1a2aAA)
