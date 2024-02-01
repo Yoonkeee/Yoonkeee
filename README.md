@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80" /><br /> |
 
-## Projects
+## Projects (Previews)
 
 - **[쏘스윗 매니저](https://demo-sosweet.vercel.app/) - 애견 놀이방의 회원, 사용내역 관리 PWA (on LIVE Service)**  
 - **[Toss Order](https://toss-order.vercel.app/) - 스마트폰에서 주문하는 테이블 오더**  
