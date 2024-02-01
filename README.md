@@ -21,5 +21,5 @@
 
 ## Links & Contacts
 
-Blog : https://velog.io/@yoonkeee/posts  
-Mail : yoonkeee@gmail.com  
+- Blog : https://velog.io/@yoonkeee/posts  
+- Mail : yoonkeee@gmail.com  
