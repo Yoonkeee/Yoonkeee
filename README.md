@@ -7,7 +7,7 @@
 - 많은 개발자들에게 좋은 영향력을 끼치는 Engineering Manager로 성장하는 것이 미래의 개발자로서의 목표입니다.  
 - 블로그에 깊은 고민과 철학을 담아내고자 노력합니다.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoonkeee)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoonkeee)]([https://github.com/eungyeole/velog-readme-stats](https://velog.io/@yoonkeee/toss-order-2))
   
 ## Tech Stacks
 
