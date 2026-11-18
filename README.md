@@ -1,32 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&color=gradient&text=FE%20개발자%20김윤기입니다.&section=header&reversal=false&textBg=false&animation=fadeIn&fontColor=1a2aAA)
+### 안녕하세요, 김윤기입니다 👋
+**Frontend Developer → Product Engineer**
 
-## I am
+약 4년간 프론트엔드 개발자로 일하며 웹과 모바일 프로덕트를 만들고, 팀의 생산성을 높이기 위해 스스로 문제를 정의해 해결해 왔습니다.  
+탄탄한 프론트엔드 기반 위에 AI와 하네스(Harness) 활용 능력을 더하면서 직무의 한계가 사라지는 것을 경험했고, 이제는 프론트엔드의 경계를 넘어 백엔드, QA, 기획, 디자인까지 제품 전반을 소화하는 **Product Engineer**를 지향합니다.
 
-- 사용자의 입장에서 편하고 직관적이며, 좋은 UX를 고민하는 프론트엔드 개발자입니다.  
-- 다른 개발자들과 기술에 대해 토의하고 교류하는 것을 매우 좋아합니다. 
-- 많은 개발자들에게 좋은 영향력을 끼치는 Engineering Manager로 성장하는 것이 미래의 개발자로서의 목표입니다.  
-- 블로그에 깊은 고민과 철학을 담아내고자 노력합니다.
+> 👉 **[이력서 및 포트폴리오 보러가기](https://yoonkeee.github.io)**
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoonkeee)](https://velog.io/@yoonkeee/toss-order-2)
-  
-## Tech Stacks
+---
 
-|React.js|Javascript|Typescript|Python|MySQL|
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80" /><br /> |
+#### Experience
+- **디웨일 (CLAP)** · Frontend Developer *(2024.02 ~ 2026.11)*
+- **F-Lab** · 프론트엔드 멘토링 코스 수료 *(2023.06 ~ 2023.12)*
+- **하람아이** · SW Engineer *(2022.07 ~ 2023.07)*
 
-## Projects (previews)
+#### Side Projects & Open Source
+- **필라테스 센터 관리 앱** *(2025.12 ~)* · 회원 300여 명 · 강사 15명 규모 센터에서 유료로 실사용 중
+- **애견 놀이방 관리 앱** *(2023.03 ~)* · 매장의 수기 장부와 메신저 안내를 대체해 유료로 실사용 중
+- **Open Source** · `oh-my-openagent`, `senpi`, `opencodex`, `CodexBar` 등 AI 코딩 도구 기여
 
-- **[쏘스윗 매니저](https://demo-sosweet.vercel.app/) - 애견 놀이방의 회원, 사용내역 관리 PWA (on LIVE Service)**  
-- **[Toss Order](https://toss-order.vercel.app/) - 스마트폰에서 주문하는 테이블 오더**  
-- **[Toss Tech Blog Clone](https://clone-toss-tech.vercel.app/) - Vanilla Javascript SPA**
+#### Tech Stack
+- **Frontend**: **TypeScript, Next.js**, React, TanStack Query, TailwindCSS, Jest, Playwright
+- **Backend & DB**: Node.js, Prisma, Python, FastAPI, PostgreSQL, MySQL, Supabase
+- **AI & Tooling**: Harness Engineering, Claude Code, Codex, Datadog, Sentry
 
-## Links & Contacts
+---
 
-- LinkedIn : https://www.linkedin.com/in/yoonkeee/  
-- Blog : https://velog.io/@yoonkeee/posts  
-- Mail : yoonkeee@gmail.com  
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonkeee%2F&count_bg=%23FF5E5E&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=false&textBg=false&animation=fadeIn&fontColor=1a2aAA)
+📫 **Contact**: [yoonkeee@gmail.com](mailto:yoonkeee@gmail.com)
