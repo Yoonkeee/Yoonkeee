@@ -1,4 +1,5 @@
 # 안녕하세요, 김윤기입니다 👋
+# <img src="./images/role-badges.svg" height="36" valign="middle" alt="Frontend Developer to Product Engineer" />
 
 약 4년간 프론트엔드 개발자로 일하며 웹과 모바일 프로덕트를 만들고, 팀의 생산성을 높이기 위해 스스로 문제를 정의해 해결해 왔습니다.  
 탄탄한 프론트엔드 기반 위에 AI와 하네스 활용 능력을 더하면서 직무의 한계가 사라지는 것을 경험했고,  
