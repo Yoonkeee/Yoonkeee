@@ -20,7 +20,7 @@
 - **오픈소스 기여** · [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent), [senpi](https://github.com/code-yeongyu/senpi), [opencodex](https://github.com/lidge-jun/opencodex), [CodexBar](https://github.com/steipete/CodexBar) 등 AI 코딩 도구 기여
 
 ### 기술 스택
-- **Frontend**: **TypeScript, Next.js**, React, TanStack Query, TailwindCSS, Jest, Playwright
+- **Frontend**: TypeScript, Next.js, React, TanStack Query, TailwindCSS, Jest, Playwright
 - **Backend · DB**: Node.js, Prisma, Python, FastAPI, PostgreSQL, MySQL, Supabase
 - **AI · Tooling**: Harness Engineering, Claude Code, Codex, Datadog, Sentry
 
